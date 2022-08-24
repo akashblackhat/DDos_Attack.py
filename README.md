@@ -26,7 +26,6 @@ DEMO===========================DEMO==============================DEMO===========
 # DDos_Attack.py
 What is a DDoS alert? ddos attack warning के लिए इमेज परिणाम Configure notifications to receive real-time alerts (within ~1 minute) about L3/4 and L7 DDoS attacks on your Internet properties, depending on your plan and services. You can choose from different delivery methods. Each notification email includes the following information: Description
 
-![Screenshot (18) (2)](https://user-images.githubusercontent.com/88341460/186395760-0ce0d7e7-f441-4431-bf73-932cef40d321.png)
 Can you Ddos with proxies?
 The number of DDOS attacks using anonymous proxies has increased. The number of distributed denial of service attacks using anonymous proxies has increased dramatically over the past year, according to a new research report, as attackers use these proxies to create an instant pseudo-botnet
 
