@@ -15,12 +15,13 @@
 
 
 ![Screenshot (17) (1)](https://user-images.githubusercontent.com/88341460/186400735-2c6d5e04-f927-4d26-a815-4753bbc7da16.png)
-DEMO===========================DEMO==============================DEMO===============================DEMO=================
+DEMO===========================DEMO==============================DEMO=====================
 
 ![Screenshot (18) (2)](https://user-images.githubusercontent.com/88341460/186409585-174656e4-9dd4-4a98-bad7-1777db6360a6.png)
 
  [!]FUCK CRUFT GOVERMENT[!]
-![images](https://user-images.githubusercontent.com/88341460/186405417-344e851c-cb41-4e6a-ab08-a35c20a3b796.jpg)
+![Screenshot (16)(1)](https://user-images.githubusercontent.com/88341460/186410564-c648f874-827e-4101-a35a-5039f7b9b3c5.jpg)
+
 
 
 # DDos_Attack.py
