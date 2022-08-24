@@ -34,6 +34,6 @@ The number of DDOS attacks using anonymous proxies has increased. The number of 
 
 DDoS Attack means "Distributed Denial-of-Service (DDoS) Attack" and it is a cybercrime in which the attacker floods a server with internet traffic to prevent users from accessing connected online services and sites.
 
-This section explains your rights to use the Service, and the conditions ... It also explains that there are some things we will not be responsible for
+This section explains your rights to use the Service, and the conditions ... It also explains that there are some things we will not be responsible for !
 
 
