@@ -14,7 +14,7 @@ What is a DDoS alert? ddos attack warning के लिए इमेज पर�
 Can you Ddos with proxies?
 The number of DDOS attacks using anonymous proxies has increased. The number of distributed denial of service attacks using anonymous proxies has increased dramatically over the past year, according to a new research report, as attackers use these proxies to create an instant pseudo-botnet
 
-![wpid-dos-attack-jpg](https://user-images.githubusercontent.com/88341460/186396135-ecdc8288-c324-4cc8-845c-a0ed6cb242e7.jpeg)
+![What-is-DDoS-Attack-2](https://user-images.githubusercontent.com/88341460/186397037-665816e1-5403-4c73-a76e-aaf95695fa7d.jpg)
 
 DDoS Attack means "Distributed Denial-of-Service (DDoS) Attack" and it is a cybercrime in which the attacker floods a server with internet traffic to prevent users from accessing connected online services and sites.
 
