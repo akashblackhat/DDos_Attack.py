@@ -2,16 +2,16 @@
         [!]This is a dender attack any miss use your risk[!]
  
  
- apt update 
- apt install python3
- apt install pip
- apt install git
- pip3 install requests pysocks
- git clone https://github.com/akashblackhat/DDos_Attack.py.git
- ls
- cd DDos_Attack.py
- ls
- python3 DDos_Attack.py
+    apt update 
+    apt install python3
+    apt install pip
+    apt install git
+    pip3 install requests pysocks
+    git clone https://github.com/akashblackhat/DDos_Attack.py.git
+    ls
+    cd DDos_Attack.py
+    ls
+    python3 DDos_Attack.py
 
 
 ![Screenshot (17) (1)](https://user-images.githubusercontent.com/88341460/186400735-2c6d5e04-f927-4d26-a815-4753bbc7da16.png)
