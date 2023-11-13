@@ -34,11 +34,8 @@ print('''\r\n
     │ version 1.2.8     (-_-)  CODE BY ::AKASH BLACK HAT  │
     │                                                     │
     │             [!!!Prevent Illegal CC-Attack!!!]       │
-    │ Developer :AKASH.BLACK.HAT                          │
-    │ Gmail     :Akashram8090as@gmail.com                 │
-    │ YouTube   :http://surl.li/csdmv                     │
-    │ Facebook  :http://surl.li/csdow                     │                      
-    │ Instagram :http://shorturl.at/bFL68                 │
+    │            Developer :AKASH.BLACK.HAT               │
+    
     │             [!!!Any Bug please report me!!!]        │
     ├─────────────────────────────────────────────────────┤
     │       Github: https://github.com/akashblackhat      │
