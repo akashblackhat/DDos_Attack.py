@@ -26,7 +26,7 @@
  # Navigate to the project folder:
       cd DDos_Attack.py
 # Run the script:
-      sudo python3 python3 NetSTRIK.py
+      sudo python3 NetSTRIK.py
 # ⚠️ Important Notes:
 # Ethical Hacking:#
 Use NetSTRIK exclusively for ethical testing. Never attack systems that you do not own or have permission to test.
