@@ -581,7 +581,7 @@ while True:
         ╚═╝  ╚═══╝╚══════╝   ╚═╝    ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚══════╝ 
                       \033[1;34;40m DDoS ATTACK \033[0;0m</> \033[0;49;92mNET STRIKE\033[0;0m 
                         Author -> K I V Y </> ABH
-        \033[0;49;95m Example -> python3 netstrike.py -s 127.0.0.1 -p 443 -t 200
+        \033[0;49;95m Example -> python3 NetSTRIK.py -s 127.0.0.1 -p 443 -t 200
         \033[1;34;40m	-s : server ip\033[0;0m
         \033[0;49;33m	-p : port default 80\033[0;0m
         \033[0;49;92m	-t : turbo default 135   \033[92m
